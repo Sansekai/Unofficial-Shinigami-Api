@@ -1,5 +1,5 @@
 # Unofficial-Shinigami-Api
-Unofficial Shinigami API adalah API yang digunakan untuk mendapatkan informasi dari website https://shinigami.ae (Website baca manga)
+Unofficial Shinigami API adalah API yang digunakan untuk mendapatkan informasi dari website https://shinigamitoon.id/ (Website baca manga)
 
 ## Base URL
 https://unofficial-shinigami-api.vercel.app/
